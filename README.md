@@ -7,3 +7,6 @@ The site, originally conceived in a pre-World Wide Web form in 1993 by Simon Kin
 ### About Clone
 
 I have made this clone by using HTML, CSS and Javascript.
+
+### Deployed Link
+https://pallu2108.github.io/17.06.2022/
